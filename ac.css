@@ -1,0 +1,12 @@
+h1
+{ 
+background :blue;
+color:white;
+text-align:center;
+border-radius:50px 0px 10px 30px;
+border:20px double red;
+text-transform:uppercase;
+letter-spacing:5px;
+font-family:monotype corsiva;
+font-size:50px;
+}
